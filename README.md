@@ -1,6 +1,6 @@
 # price-prediction-preowned-cars
 This repository is based on a research article titled "Application of Machine Learning Techniques to Predict the Price
-of Pre-owned Cars in Bangladesh"<br /> 
+of Pre-owned Cars in Bangladesh" which has been published in [Information](https://www.mdpi.com/journal/information) journal on December 9, 2021. <br /> 
 <br /> 
 Authors:<br /> 
 Akash Lanard (akash.lanard@northsouth.edu)<br /> 
